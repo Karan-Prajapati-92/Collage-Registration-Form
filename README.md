@@ -1,6 +1,6 @@
 # College Registration Form
 
-A college registration form built using:
+A college registration form built using Node.js, Express.js and MongoDB Atlas.
 
 ## Technologies Used
 
